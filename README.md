@@ -1,2 +1,3 @@
-# week-scheduler
-weekly task scheduler
+# week-planner
+weekly task planner
+
